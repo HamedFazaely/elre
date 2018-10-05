@@ -19,7 +19,11 @@ class App extends Component {
           >
             Learn React
           </a>
+          <h1>
+            Hey babe, using react with electron
+          </h1>
         </header>
+
       </div>
     );
   }
